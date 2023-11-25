@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-
+import { Footer, Navbar} from '@/component'
 import './globals.css'
 import { relative } from 'path'
 export const metadata: Metadata = {
