@@ -1,6 +1,7 @@
 "use client";
-import { CustomButtonProps } from '@types';
+
 import Image from 'next/image';
+
 
 const custombutton = ({title,containerStyle,handleClick}: CustomButtonProps) => {
   return (
